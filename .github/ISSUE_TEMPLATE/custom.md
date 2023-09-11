@@ -1,7 +1,7 @@
 ---
 name: Custom issue template
 about: Web Application Issue/Bug Report Template
-title: "[Bug Ticket #1001]"
+title: "[Bug Ticket #1002]"
 labels: bug, documentation
 assignees: gracemorganmaxwell
 
